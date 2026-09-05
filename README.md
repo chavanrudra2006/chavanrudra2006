@@ -5,17 +5,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=Turning+curiosity+into+impact+with+Data+%26+AI;Turning+curiosity+into+code%2C+ideas+into+reality;Code.+Data.+AI.+Repeat." alt="Typing SVG"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=8B949E&background=00000000&center=true&vCenter=true&width=600&height=40&lines=%F0%9F%94%AD+Currently+exploring+AI%2FML+%26+Data+Science;%F0%9F%93%9A+Always+learning+something+new" alt="Sub Typing SVG"/>
 </p>
 
-<!-- ================= LIVE QUOTE (auto-refreshes, no setup needed) ================= -->
+<!-- ================= CODING GIF STRIP ================= -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280">
 </p>
 
-<!-- ================= PROFILE VIEWS + WAVE DIVIDER ================= -->
+<!-- ================= PROFILE VIEWS ================= -->
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=chavanrudra2006">
     <img src="https://komarev.com/ghpvc/?username=chavanrudra2006&label=Profile%20views&color=00FFFF&style=flat-square" alt="chavanrudra2006's profile views" />
@@ -25,19 +24,19 @@
 <!-- ================= BADGE ROW ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%26%20DS-6c757d?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/YOUR_COLLEGE_NAME-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Terna_Engineering_College-00BFFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Science-6c757d?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📍_Mumbai-2ea44f?style=for-the-badge" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,29&height=3&width=100%" width="100%"/>
 
-<!-- ================= ABOUT ME (text + photo layout) ================= -->
+<!-- ================= ABOUT ME (text + animated coding gif) ================= -->
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-## 📌 About Me
+### 📌 About Me
 - Hi there! I'm Rudra 👋
 - Aspiring Data Scientist • AI/ML Enthusiast • Problem Solver
 - 🎓 Data Science & AI student
@@ -49,64 +48,28 @@
 - 🎯 Continuously improving my Machine Learning, analytical thinking, and problem-solving skills
 
 </td>
-<td width="40%" valign="top" align="center">
-
-<!-- Replace this src with a real photo of yourself (upload it to your repo, e.g. /assets/photo.png, or host it and paste the link) -->
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="your photo goes here"/>
-
+<td width="45%" valign="top" align="center">
+<!-- Swap this for a real photo of yourself whenever you have one ready -->
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100%"/>
 </td>
 </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,29&height=3&width=100%" width="100%"/>
 
-## 🧠 My Focus Areas
-- Web Development
-- Data Scientist
-- AI Engineer
+### 🧠 My Focus Areas
+- 🌐 Web Development
+- 📈 Data Scientist
+- 🤖 AI Engineer
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,29&height=3&width=100%" width="100%"/>
 
 <!-- ================= GITHUB SNAKE (animated contribution eater) ================= -->
-<!--
-  ONE-TIME SETUP (about 2 minutes) before this image will show correctly:
-  1. In this repo, create: .github/workflows/snake.yml
-  2. Paste:
-
-      name: generate snake animation
-      on:
-        schedule:
-          - cron: "0 0 * * *"
-        workflow_dispatch: {}
-        push:
-          branches: [ main ]
-      jobs:
-        generate:
-          permissions:
-            contents: write
-          runs-on: ubuntu-latest
-          steps:
-            - uses: Platane/snk@v3
-              with:
-                github_user_name: chavanrudra2006
-                outputs: |
-                  dist/github-contribution-grid-snake.svg
-                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            - uses: crazy-max/ghaction-github-pages@v4
-              with:
-                target_branch: output
-                build_dir: dist
-              env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Push once — GitHub Actions will build the snake automatically.
-     Until then, the image below will just look broken; it fixes itself after step 3 runs.
--->
 <p align="center">
   <img src="https://raw.githubusercontent.com/chavanrudra2006/chavanrudra2006/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </p>
 
-## 📊 GitHub Stats & Trophies
+### 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/chavanrudra2006">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chavanrudra2006&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="chavanrudra2006's GitHub Stats" />
@@ -122,7 +85,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,29&height=3&width=100%" width="100%"/>
 
-## 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -170,7 +133,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,29&height=3&width=100%" width="100%"/>
 
-## 🔗 Connect with Me
+### 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rudra-chavan-703a52383/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
@@ -193,6 +156,11 @@
 </picture>
 
 <p align="center"><a href="https://www.buymeacoffee.com/RudraChavan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<!-- ================= CLOSING CODING GIF ================= -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="280">
+</p>
 
 <!-- ================= FOOTER BANNER (mirrors top for symmetry) ================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=29,20,11,6&section=footer&animation=fadeIn" width="100%"/>
